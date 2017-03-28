@@ -1,0 +1,14 @@
+This is a really long line
+short one
+
+The previous line is blank
+The next lines are a haiku about programming
+
+> Stubborn line of code
+> Why must you mock me with crash
+> We will see who's boss
+
+Here are some emoji
+:)
+:(
+^^
